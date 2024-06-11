@@ -1,0 +1,108 @@
+*
+{
+    padding:0;
+    margin:0;
+    color: #273b87;
+    font-family: sans-serif;
+}
+body{
+    text-align: center;
+	background: white;
+
+	padding:1%
+}
+div#wrapper {
+    margin:0 auto;
+    width:90%;
+}
+
+div#header {
+    float:left;
+    width:100%;
+    height:1%;
+}
+ div#logo{
+    background: url("./logo.png") no-repeat ;
+    float:right;
+    width:50%;
+    height:100px;
+    background-size:contain;
+}
+div#title {
+    margin:30px 10% 1%;
+}
+
+div#main_content {
+}
+
+div#section_gauges {
+}
+#TP, #TA, #HA, #SM, #EC, #TDS, #SAL, #PH, #DO {
+    width: 320px;
+    height: 320px;
+    color: #273b87;
+    display: inline-block;
+    margin: 1px;
+}
+.button {
+	background-color: #EEEEEE;
+	border:0.1em solid #273b87 ;
+	color: #273b87;
+	padding:10px;
+	text-align:center;
+	text-decoration: none;
+	display:inline-block;
+	font: bold 15px Arial;
+	margin: 4px 2px;
+	cursor:pointer;
+	border-radius: 40%;
+	text-shadow: 1px 1px #57D6C7;
+	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+}
+div#section_historical {
+}
+input[type="text"] {
+    vertical-align:baseline;
+    text-align:center;
+    width: 4em;
+    height:3em;
+    padding: 1px 1px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font: 15px, arial;
+}
+input[type="text"].year {
+    width: 6em;
+}
+
+
+.form-submit-button {
+    background: #0066A2;
+    color: white;
+    border-style: outset;
+    border-color: #0066A2;
+    height: 50px;
+    width: 100px;
+    font: bold 15px arial;
+    text-shadow:none;
+}
+div#display_historical{
+}
+div#fig_plot{
+}
+img{
+	display: display: inline-block
+}
+
+div#footer {
+    text-align: center;
+    float:center;
+    width:100%;
+    height:1%;
+    border:1px solid #0
+}
+
+
+

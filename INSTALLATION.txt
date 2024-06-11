@@ -1,0 +1,21 @@
+Installation:
+- cd ${HOME}
+- git clone https://jlulloaa@bitbucket.org/jlulloaa/pydroponia.git
+- cd pydroponia
+- ./setup.sh
+- sudo reboot
+
+To update:
+- cd ${HOME}/pydroponia
+- git pull
+- ./setup.sh
+- sudo reboot
+
+To start manually the data logger:
+- cd ${HOME}/bin/bioagro
+- ./start.sh
+
+To start manually the webserver:
+- cd ${HOME}/bin/bioagro
+- ./start_webserver.sh
+

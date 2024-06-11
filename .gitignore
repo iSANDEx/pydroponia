@@ -348,3 +348,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Local ignore
+.DS_Store
+*.ipynb_checkpoints
+arduino/utils
+docs/build
+

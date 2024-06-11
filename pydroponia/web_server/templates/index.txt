@@ -1,0 +1,30 @@
+Bio-agronomic Data Logger 
+
+Sensor Data 
+Last reading: {{ timestamp }} 
+
+
+
+
+
+
+
+
+
+Click to refresh 
+
+
+
+HISTORICAL DATA 
+
+Enter a range between two dates (in format 'dd/mm/yyyy HH:MM') to retrieve a sub-set of measurements:
+
+From: {{startDay}}/ {{startMonth}}/ {{startYear}}      {{startHour}} :  {{startMin}}      To: {{endDay}}/ {{endMonth}}/ {{endYear}}      {{endHour}} :  {{endMin}}
+
+
+
+ 
+
+
+Web interface originally developed by MJRoBot.org, modified by Jose L. Ulloa, 2018 
+
