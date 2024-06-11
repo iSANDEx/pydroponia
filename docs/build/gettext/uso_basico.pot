@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Jose L. Ulloa
+# This file is distributed under the same license as the Pydroponia package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pydroponia 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-07 17:15+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/uso_basico.rst:4
+msgid "Funcionamiento Basico del Software Pydroponia"
+msgstr ""
+
+#: ../../source/uso_basico.rst:9
+msgid "Diagrama de bloques componentes del software |pydroponia|"
+msgstr ""
+
+#: ../../source/uso_basico.rst:12
+msgid "Comandos basicos de operacion"
+msgstr ""
+
+#: ../../source/uso_basico.rst:15
+msgid "Instalacion desde repositorio"
+msgstr ""
+
+#: ../../source/uso_basico.rst:26
+msgid "Actualizacion del codigo fuente"
+msgstr ""
+
+#: ../../source/uso_basico.rst:35
+msgid "Inicio manual del *data logger*"
+msgstr ""
+
+#: ../../source/uso_basico.rst:42
+msgid "Inicio manual del servidor web"
+msgstr ""
+
+#: ../../source/uso_basico.rst:48
+msgid "Ir a: http://pydro001.local"
+msgstr ""
+
+#: ../../source/uso_basico.rst:50
+msgid "*Work in progres...*"
+msgstr ""
+

@@ -352,6 +352,4 @@ MigrationBackup/
 # Local ignore
 .DS_Store
 *.ipynb_checkpoints
-arduino/utils
-docs/build
 
